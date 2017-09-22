@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultI arena FPS.Plugins", "MultI arena FPS.Plugins.csproj", "{A4D30486-C431-54B4-AAD2-3C31D50EB5FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultI arena FPS", "MultI arena FPS.csproj", "{32CE785A-7A3E-6C85-0221-62606D5B7A3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultI arena FPS.Editor.Plugins", "MultI arena FPS.Editor.Plugins.csproj", "{C62FE65D-410E-1D02-9CD5-5C5A3ED9DAE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4D30486-C431-54B4-AAD2-3C31D50EB5FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4D30486-C431-54B4-AAD2-3C31D50EB5FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4D30486-C431-54B4-AAD2-3C31D50EB5FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4D30486-C431-54B4-AAD2-3C31D50EB5FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32CE785A-7A3E-6C85-0221-62606D5B7A3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32CE785A-7A3E-6C85-0221-62606D5B7A3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32CE785A-7A3E-6C85-0221-62606D5B7A3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32CE785A-7A3E-6C85-0221-62606D5B7A3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C62FE65D-410E-1D02-9CD5-5C5A3ED9DAE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C62FE65D-410E-1D02-9CD5-5C5A3ED9DAE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C62FE65D-410E-1D02-9CD5-5C5A3ED9DAE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C62FE65D-410E-1D02-9CD5-5C5A3ED9DAE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
